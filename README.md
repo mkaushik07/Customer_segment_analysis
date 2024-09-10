@@ -1,14 +1,18 @@
 Customer Segment Analysis
+
+
 Overview
 This project aims to perform in-depth customer segmentation using Agglomerative Clustering and Principal Component Analysis (PCA). By analyzing customer data based on income and spending patterns, this project identifies distinct customer segments to help in targeted marketing and strategic decision-making.
 
 Features
+
 Customer Segmentation: Utilizes Agglomerative Clustering to categorize customers into distinct segments based on their financial and spending behaviors.
 Dimensionality Reduction: Applies PCA to simplify the dataset while retaining essential variance, enhancing the clustering process.
 Visualization: Provides clear and informative visualizations of customer segments and their characteristics.
 Data Exploration: Includes exploratory data analysis (EDA) to understand data distributions and patterns before clustering.
 
 Methodology
+
 Data Collection: Acquires customer data, including income and spending patterns.
 Data Preprocessing: Cleans and preprocesses the data, handling missing values and normalizing features.
 Dimensionality Reduction: Uses PCA to reduce the number of dimensions while retaining 85% of the variance in the dataset.
